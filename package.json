@@ -1,0 +1,22 @@
+{
+  "name": "readme-constructor",
+  "version": "1.0.0",
+  "description": "A command line application that generates a quality README",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twkirkpatrick/README-Constructor.git"
+  },
+  "author": "Tanner Kirkpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twkirkpatrick/README-Constructor/issues"
+  },
+  "homepage": "https://github.com/twkirkpatrick/README-Constructor#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
