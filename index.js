@@ -13,27 +13,27 @@ function promptUser(){
         },
         {
             type: "input",
-            message: "Enter a description for your project",
+            message: "Enter a description for your project:",
             name: "description"
         },
         {
             type: "input",
-            message: "Enter installation instructions so developers can easily access your application",
+            message: "Enter installation instructions so developers can easily access your application:",
             name: "installation"
         },
         {
             type: "input",
-            message: "Give precise details on how to use this application",
+            message: "Give precise details on how to use this application:",
             name: "usage"
         },
         {
             type: "input",
-            message: "Enter guidelines for how to contribute to this project",
+            message: "Enter guidelines for how to contribute to this project:",
             name: "contribution"
         },
         {
             type: "input",
-            message: "Enter test instructions for your project",
+            message: "Enter test instructions for your project:",
             name: "test"
         },
         {
@@ -51,7 +51,15 @@ function promptUser(){
 };
 
 function generateReadMe(answers){
-    return `# ${answers.title}`
+    return `# ${answers.title}
+${answers.description}
+
+## Installation
+${answers.installation}
+    
+    
+    
+    `
 };
 
 promptUser()
@@ -65,3 +73,4 @@ promptUser()
 .catch(function(err){
     console.log(err);
 })
+
