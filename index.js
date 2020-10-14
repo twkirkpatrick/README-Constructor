@@ -54,6 +54,14 @@ function generateReadMe(answers){
     return `# ${answers.title}
 ${answers.description}
 
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributions](#contributions)
+* [Test](#test)
+* [Questions](#questions)
+* [License](#license)
+
 ## Installation
 ${answers.installation}
     
