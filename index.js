@@ -47,5 +47,21 @@ function promptUser(){
             name: "email"
         },
        
-    ])
-}
+    ]);
+};
+
+function generateReadMe(answers){
+    return `# ${answers.title}`
+};
+
+promptUser()
+.then(function(answers){
+    const readme = generateReadMe(answers);
+    return writeFileAsync("README.md", readme);
+})
+.then(function(){
+    console.log("Your README has successfully been generated!");
+})
+.catch(function(err){
+    console.log(err);
+})
