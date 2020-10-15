@@ -20,6 +20,9 @@ With all required dependencies installed, run command ```node index.js``` to get
 
 <img src='images/terminal.png' alt='screenshot of command line application'>
 
+After answering the prompts, you will get a message in the terminal stating that your ```README has been successfully generated!``` <br>
+Once your file is generated, your README file should be sitting in the working directory!
+
 ## Contributions
 Any and all contributions to this project are welcome.  Clone the repo down to your local machine, create a branch, commit changes to branch, push to github, and open a pull request!
 
@@ -27,8 +30,8 @@ Any and all contributions to this project are welcome.  Clone the repo down to y
 NA
 
 ## Questions
-If you have any further questions, feel free to reach out to me!
-<a href='https://www.github.com/twkirkpatrick'>Github</a>
+If you have any further questions, feel free to reach out to me! <br>
+<a href='https://www.github.com/twkirkpatrick'>Github</a> <br>
 <a href='mailto:twk4491@gmail.com'>twk4491@gmail.com</a>
 
 ## License
