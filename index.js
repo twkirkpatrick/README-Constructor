@@ -87,11 +87,11 @@ ${answers.tests}
 
 ## Questions
 If you have any further questions, feel free to reach out to me!
-${answers.github}
-${answers.email}
+<a href='https://www.github.com/${answers.github}'>Github</a>
+<a href='mailto:${answers.email}'>${answers.email}</a>
 
 ## License
-Usage is provided under the ${answers.license}.
+Usage is provided under the ${answers.license} license.
     
     
     
@@ -125,7 +125,7 @@ promptUser()
     return writeFileAsync("README.md", readme);
 })
 .then(function(){
-    console.log("Your README has successfully been generated!");
+    console.log("Your README has been successfully generated!");
 })
 .catch(function(err){
     console.log(err);
