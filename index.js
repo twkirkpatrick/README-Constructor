@@ -122,7 +122,7 @@ promptUser()
     chooseBadge(answers)
     const readme = generateReadMe(answers);
     
-    return writeFileAsync("README.md", readme);
+    return writeFileAsync("sampleREADME.md", readme);
 })
 .then(function(){
     console.log("Your README has been successfully generated!");
