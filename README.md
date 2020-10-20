@@ -15,7 +15,9 @@ It is essential to include a quality, thorough README in any open source project
 
 
 ## Installation
-From within the working directory, run command ```npm i``` to install all required dependencies.
+To begin, fork my repository by clicking on the fork button in the top right corner of the repository.  The repository will be added to the repository section of your Github profile.  From there, clone down the forked copy to your local machine and open up the directory.  From within the working directory, run command ```npm i``` to install all required dependencies.
+<img src='images/fork.png' alt='screenshot of fork button'>
+
 
 ## Usage
 With all required dependencies installed, run command ```node index.js``` to get started.  
