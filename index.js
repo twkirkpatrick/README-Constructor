@@ -68,7 +68,7 @@ ${badge}
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributions](#contributions)
-* [Test](#test)
+* [Testing](#testing)
 * [Questions](#questions)
 * [License](#license)
 
@@ -82,8 +82,8 @@ ${answers.usage}
 ## Contributions
 ${answers.contributions}
 
-## Tests
-${answers.tests}
+## Testing
+${answers.test}
 
 ## Questions
 If you have any further questions, feel free to reach out to me! <br>
