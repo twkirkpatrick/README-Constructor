@@ -16,6 +16,8 @@ It is essential to include a quality, thorough README in any open source project
 From within the working directory, run command npm i to install all required dependencies.
 
 ## Usage
+<iframe src="https://drive.google.com/file/d/1aIM3LPZZtqdbFthF18NhM_epExMwstns/preview" width="640" height="480"></iframe> <br>
+
 With all required dependencies installed, run command node index.js to get started.  After answering the prompts, you will get a message in the terminal stating that your README has been successfully generated.  Once your file is generated, your README should be sitting in the working directory!
 
 ## Contributions
