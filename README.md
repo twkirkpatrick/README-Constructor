@@ -25,7 +25,7 @@ blah
 undefined
 
 ## Questions
-If you have any further questions, feel free to reach out to me!
+If you have any further questions, feel free to reach out to me! <br>
 <a href='https://www.github.com/twkirkpatrick'>Github</a> <br>
 <a href='mailto:twk4491@gmail.com'>twk4491@gmail.com</a>
 

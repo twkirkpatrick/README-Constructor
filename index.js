@@ -86,7 +86,7 @@ ${answers.contributions}
 ${answers.tests}
 
 ## Questions
-If you have any further questions, feel free to reach out to me!
+If you have any further questions, feel free to reach out to me! <br>
 <a href='https://www.github.com/${answers.github}'>Github</a> <br>
 <a href='mailto:${answers.email}'>${answers.email}</a>
 
