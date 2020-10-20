@@ -42,7 +42,7 @@ function promptUser(){
         {
             type: "input",
             message: "Enter test instructions for your project:",
-            name: "tests"
+            name: "test"
         },
         {
             type: "input",
