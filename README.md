@@ -1,6 +1,8 @@
 # README Constructor
 It is essential to include a quality, thorough README in any open source project on Github.  With the README Constructor, you will be able to spend less time writing a README and more time developing your product.  All through the command line, the README constructor takes in a number of questions answered by the user, and generates a professional, easy-to-read README with all of the important bases covered.
 
+<a href="https://drive.google.com/file/d/1aIM3LPZZtqdbFthF18NhM_epExMwstns/view?usp=sharing">Application Demo Video</a>
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
@@ -13,12 +15,13 @@ It is essential to include a quality, thorough README in any open source project
 
 
 ## Installation
-From within the working directory, run command npm i to install all required dependencies.
+From within the working directory, run command ```npm i``` to install all required dependencies.
 
 ## Usage
-<iframe src="https://drive.google.com/file/d/1aIM3LPZZtqdbFthF18NhM_epExMwstns/preview" width="640" height="480"></iframe> <br>
+With all required dependencies installed, run command ```node index.js``` to get started.  
+<img src='images/terminal.png' alt='screenshot of command line application'>
 
-With all required dependencies installed, run command node index.js to get started.  After answering the prompts, you will get a message in the terminal stating that your README has been successfully generated.  Once your file is generated, your README should be sitting in the working directory!
+After answering the prompts, you will get a message in the terminal stating that your ```README has been successfully generated!```  Once your file is generated, your README should be sitting in the working directory!
 
 ## Contributions
 Any and all contributions to this project are welcome.  Clone the repo down to your local machine, create a branch, commit changes to branch, push to Github, and open a pull request!
